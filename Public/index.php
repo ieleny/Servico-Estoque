@@ -1,2 +1,1 @@
-<?php 
-    echo  'Hello Wordl'  
+require('../vendor/autoload.php');
